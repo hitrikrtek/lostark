@@ -1,0 +1,2 @@
+# lostark
+Lost Ark scripts
